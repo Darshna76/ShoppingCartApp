@@ -4,8 +4,7 @@ The application is built using HTML, CSS, and advanced JavaScript concepts. It i
 ### Features
 * Signup and login handling using local storage with support for multiple users
 * Fetching products from an API and displaying them in the shop page
-* Filtering items by name, price, rating, color, and size
-* Shopping cart management with add and remove item functionality
+* Filtering items by name, price, and rating
 * Integration with Razorpay for the checkout process
 * Profile page to view and edit user information
 * HTML and CSS animations and styling for an enhanced user experience
